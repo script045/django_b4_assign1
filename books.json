@@ -1,0 +1,14 @@
+{
+    "books": [
+        {
+            "title": "First Book",
+            "author": "Auth1",
+            "isbn": "2000200023",
+            "genre": "Some Genre",
+            "price": 450.0,
+            "quantity": 3,
+            "publisher": "Some Publications",
+            "year": 2024
+        }
+    ]
+}
